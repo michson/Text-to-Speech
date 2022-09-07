@@ -31,6 +31,7 @@
               <Component id="jPanel1" max="32767" attributes="0"/>
               <EmptySpace max="-2" attributes="0"/>
           </Group>
+
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
