@@ -22,8 +22,7 @@ public class home_page extends javax.swing.JFrame {
         
         
         initComponents();
-       
-      
+          
     }
 
     /**
