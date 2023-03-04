@@ -17,8 +17,7 @@ public class splash_screen extends javax.swing.JFrame {
      * Creates new form splash_screen
      */
     public splash_screen() {
-        initComponents();
-        
+        initComponents();   
     }
 
     /**
