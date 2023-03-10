@@ -4,7 +4,6 @@
  */
 
 
-
 package machine_to_man_text_to_speech;
 
 import osa.ora.utils.JHSpeakUtils;
