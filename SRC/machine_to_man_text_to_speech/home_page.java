@@ -3,7 +3,6 @@
  * and open the template in the editor.
  */
 
-
 package machine_to_man_text_to_speech;
 
 import osa.ora.utils.JHSpeakUtils;
